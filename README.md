@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -17,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
