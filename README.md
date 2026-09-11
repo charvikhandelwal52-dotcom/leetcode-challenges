@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0162-find-peak-element) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0344-reverse-string) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0496-next-greater-element-i) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
