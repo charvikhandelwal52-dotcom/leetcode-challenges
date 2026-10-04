@@ -160,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
