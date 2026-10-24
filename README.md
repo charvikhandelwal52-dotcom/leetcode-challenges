@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0567-permutation-in-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3731-find-missing-elements](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3731-find-missing-elements](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/charvikhandelwal52-dotcom/leetcode-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
